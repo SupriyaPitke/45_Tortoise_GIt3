@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="45_TortoiseGit_3"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="Y"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{737E0716-002E-428E-945E-0F22A605FC81}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14050.00"/>
+  </_Project>
+
+</Application>
